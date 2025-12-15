@@ -9,8 +9,6 @@
 
 ~ 🌱 I’m currently learning System Design and Agentic AI
 
-~ 💻 All of my projects are available on Github
-
 ~ 📫 Reach out to me at kndarshan15@gmail.com
 
 
