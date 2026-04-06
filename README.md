@@ -2,7 +2,7 @@
    ==================================================================================================================================================
  
                 
-               A passionate developer from India 🇮🇳 
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="dacchudarshan" /> </p>
 
@@ -28,17 +28,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=darshankndarshu&icon=0&color=1)](https://visitcount.itsvg.in)
 
+Support:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dacchudarshan) [!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
 
 
 
