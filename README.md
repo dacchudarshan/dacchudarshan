@@ -1,6 +1,7 @@
    Hi 👋, I'm Darshan KN
    ==================================================================================================================================================
-                 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="dacchudarshan" /> </p>
+                
                   A passionate developer from India 🇮🇳 
 
 ~ i'm student!
@@ -10,6 +11,9 @@
 ~ 🌱 I’m currently learning System Design and Agentic AI
 
 ~ 📫 Reach out to me at kndarshan15@gmail.com
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacchudarshan&" alt="dacchudarshan" /></p>
 
 
 ## 🌐 Socials:
@@ -26,5 +30,17 @@
 [![](https://visitcount.itsvg.in/api?id=darshankndarshu&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
