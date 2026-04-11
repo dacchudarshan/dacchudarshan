@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="dacchudarshan" /> </p>
 
-~ i'm student!
+~  i'm student!
 
-~ 👨‍💻 I’m currently studing on Master Of Science (DATA SCIENCE)
+~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE)
 
 ~ 🌱 I’m currently learning System Design and Agentic AI
 
