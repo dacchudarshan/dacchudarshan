@@ -13,6 +13,11 @@
 
 ~ 📫 Reach out to me at kndarshan15@gmail.com
 
+<h3 align="left">GitHub Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dacchudarshan&show_icons=true&locale=en" alt="dacchudarshan" /></p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacchudarshan&" alt="dacchudarshan" /></p>
 
@@ -33,13 +38,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dacchudarshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dacchudarshan" /></a></p><br><br>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
 
