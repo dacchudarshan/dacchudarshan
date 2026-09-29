@@ -9,7 +9,7 @@
 
 ~ 👨‍💻 I’m currently working as a Software Engineer Intern at [**Algorithms365**](https://www.algorithms365.com)
 
-~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE) 
+~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE)  
 
 ~ 🌱 I’m currently learning System Design and Agentic AI 
 
